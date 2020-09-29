@@ -1,0 +1,10 @@
+﻿  main.cpp
+  MemoryManagement.cpp
+  QueueLL.cpp
+  Generating code
+f:\فايل الدى بتاع الكمبيوتر\diploma\semester three\cs 505 (data structure)\os memory\queuell.cpp(69): warning C4715: 'QueueLL<Process>::queueFront': not all control paths return a value
+  22 of 23 functions (95.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OS Memory.vcxproj -> F:\فايل الدى بتاع الكمبيوتر\Diploma\semester three\cs 505 (data structure)\OS Memory\Release\OS Memory.exe
